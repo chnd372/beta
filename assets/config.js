@@ -20,7 +20,7 @@ let config = {
     },
     {
       "Title": "Instagram",
-      "URL": "https://instagram.com/icannn7",
+      "URL": "https://instagram.com/icannn7_",
       "icon_classes": "fab fa-instagram", 
     }, 
     {
