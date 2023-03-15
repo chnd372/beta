@@ -19,9 +19,14 @@ let config = {
       "icon_classes": "fab fa-twitter", 
     },
     {
-      "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "Title": "Instagram",
+      "URL": "https://instagram.com/icannn7",
+      "icon_classes": "fab fa-instagram", 
+    }, 
+    {
+      "Title": "Facebook", 
+      " URL": "https://www.facebook.com/Chandrass691", 
+      " icon_classes": "fab fa-facebook", 
     },
   ]
 }
