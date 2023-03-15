@@ -25,8 +25,8 @@ let config = {
     }, 
     {
       "Title": "Facebook", 
-      " URL": "https://www.facebook.com/Chandrass691", 
-      " icon_classes": "fab fa-facebook", 
+      "URL": "https://www.facebook.com/Chandrass691", 
+      "icon_classes": "fab fa-facebook", 
     },
   ]
 }
