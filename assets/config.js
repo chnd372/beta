@@ -1,5 +1,5 @@
 let config = {
-  "Title": "Ican - Links",
+  "Title": "Chandra - Links",
   "Name": "Chandra T Mairafela",
   "Description": "Seorang pemuda yang bermimpi menjadi yang terbaik dari yang terbaik",
   "links": [
